@@ -1,0 +1,18 @@
+body{
+    margin: 50px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-size: medium;
+}
+
+p{
+    color: crimson;
+}
+
+p:hover, a:hover{
+    background-color: aquamarine;
+}
+
